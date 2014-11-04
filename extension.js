@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "SlayerDamianBot",
         language: "portuguese",
-        chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt-br.json",
+        chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
