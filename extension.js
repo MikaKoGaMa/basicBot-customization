@@ -53,7 +53,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "SlayerDamianBot",
         language: "portuguese",
         chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt-br.json",
         maximumAfk: 120,
