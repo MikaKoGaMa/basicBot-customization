@@ -94,8 +94,8 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: [],
-        messageInterval: 5,
+        intervalMessages: ["Obrigado pela presença de todos! Espero que estejam se divertindo =)", "A roleta acontece a cada 30 min, teste sua sorte para ganhar posições na fila!", "ahhhhhhhhh que dlç  de música cara"],
+        messageInterval: 3,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
