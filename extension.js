@@ -73,6 +73,7 @@
         lockskipPosition: 3,
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
+            ["tema", "Essa música não condiz com o tema da sala. "],
             ["op", "This song is on the OP list. "],
             ["history", "This song is in the history. "],
             ["mix", "You played a mix, which is against the rules. "],
