@@ -1527,7 +1527,7 @@
             },
             
             cookieCommand: {
-                command: 'cookie',
+                command: 'biscoito',
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['has given you a chocolate chip cookie!',
@@ -1583,68 +1583,7 @@
                 }
             },
             
-            biscoitoCommand: {
-                command: 'biscoito',
-                rank: 'user',
-                type: 'startsWith',
-                cookie: ['te deu um cookie crocante de chocolate!',
-                    'te deu um cookie de aveia caseiro!',
-                    'te deu um cookie velho e seco. Era o ultimo do pacote. Nojento!',
-                    'te deu um biscoito de açucar. O que, sem farinha e granulado? Eu não tocaria nele.',
-                    'te deu um cookie crocante. Ei, espere, esse é de uva passa. Credo!',
-                    'te deu um cookie enorme . Encostando nele, te dá mais cookies. Estranho!',
-                    'te deu um cookie da sorte. Está escrito “Porque você não está trabalhando?',
-                    'te deu um cookie da sorte. Está escrito “Cumprimente alguém especial."',
-                    'te deu um cookie da sorte. Está escrito “Arrisque-se.”',
-                    'te deu um cookie da sorte. Está escrito “Saia um pouco”',
-                    'te deu um cookie da sorte. Está escrito “Nao esqueça de comer seus legumes.”',
-                    'te deu um cookie da sorte. Está escrito “Você ao menos malha?”',
-                    'te deu um cookie da sorte. Está escrito ”se mover seu quadril, vai pegar todas as garotas.”',
-                    'te deu um cookie da sorte. Está escrito “Eu te amo” <3',
-                    'te deu um cookie Dourado. Você não pode comê-lo pois é de ouro. Droga!',
-                    'te deu um cookie da sorte. Está escrito: fique em silencio por 5 minutos.',
-                    'te deu um Oreo e um copo de leite!',
-                    'te deu um cookie de Arco-ìris feito com amor :heart:',
-                    'te deu um cookie velho que foi deixado na chuva. Está mofado.',
-                    'te deu um biscoito da sorte. Está escrito "não toque essa música planejada"',
-                    'te deu um cupcake!',
-                    'te deu um brownie "especial"',
-                    'te deu um cracker animal',
-                    'te deu um biscoito Scooby',
-                    'fez cookies fresquinhos, o cheiro está bom.',
-                    'te deu um cookie da sorte. Está escrito "A vida trará coisas boas se tiveres paciência."'
-                ],
-                getCookie: function () {
-                    var c = Math.floor(Math.random() * this.cookies.length);
-                    return this.cookies[c];
-                },
-                functionality: function (chat, cmd) {
-                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                    else {
-                        var msg = chat.message;
-
-                        var space = msg.indexOf(' ');
-                        if (space === -1) {
-                            API.sendChat(basicBot.chat.eatcookie);
-                            return false;
-                        }
-                        else {
-                            var name = msg.substring(space + 2);
-                            var user = basicBot.userUtilities.lookupUserName(name);
-                            if (user === false || !user.inRoom) {
-                                return API.sendChat(subChat(basicBot.chat.nousercookie, {name: name}));
-                            }
-                            else if (user.username === chat.un) {
-                                return API.sendChat(subChat(basicBot.chat.selfbiscoito, {name: name}));
-                            }
-                            else {
-                                return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
-                            }
-                        }
-                    }
-                }
-            },
+            
 
             cycleCommand: {
                 command: 'cycle',
