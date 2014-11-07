@@ -964,6 +964,12 @@
                 if(msg.indexOf(':eyeroll:') > -1){
                     API.sendChat('/me ¬_¬');
                 }
+                if(msg.indexOf(':notamused:') > -1){
+                    API.sendChat('/me ಠ_ಠ');
+                }
+                if(msg.indexOf(':yuno:') > -1){
+                    API.sendChat('/me ლ(ಥ益ಥლ');
+                }
                 if (msg.indexOf('autojoin was not enabled') > 0 || msg.indexOf('AFK message was not enabled') > 0 || msg.indexOf('!afkdisable') > 0 || msg.indexOf('!joindisable') > 0 || msg.indexOf('autojoin disabled') > 0 || msg.indexOf('AFK message disabled') > 0) {
                     API.moderateDeleteChat(chat.cid);
                     return true;
