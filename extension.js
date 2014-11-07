@@ -53,9 +53,9 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "SlayerDamianBot",
+        botName: "PopBot",
         language: "portuguese",
-        chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
@@ -106,6 +106,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/SlayerDamianBot.js', extend);
+    $.getScript('https://rawgit.com/SlayerDamianBot/basicBot-customization/master/SlayerDamianBot.js', extend);
 
 }).call(this);
