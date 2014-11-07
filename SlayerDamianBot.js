@@ -1526,30 +1526,38 @@
                 }
             },
             
-            cookieCommand: {
+            
+            
+            biscoitoCommand: {
                 command: 'biscoito',
                 rank: 'user',
                 type: 'startsWith',
-                cookies: ['has given you a chocolate chip cookie!',
-                    'has given you a soft homemade oatmeal cookie!',
-                    'has given you a plain, dry, old cookie. It was the last one in the bag. Gross.',
-                    'gives you a sugar cookie. What, no frosting and sprinkles? 0/10 would not touch.',
-                    'gives you a chocolate chip cookie. Oh wait, those are raisins. Bleck!',
-                    'gives you an enormous cookie. Poking it gives you more cookies. Weird.',
-                    'gives you a fortune cookie. It reads "Why aren\'t you working on any projects?"',
-                    'gives you a fortune cookie. It reads "Give that special someone a compliment"',
-                    'gives you a fortune cookie. It reads "Take a risk!"',
-                    'gives you a fortune cookie. It reads "Go outside."',
-                    'gives you a fortune cookie. It reads "Don\'t forget to eat your veggies!"',
-                    'gives you a fortune cookie. It reads "Do you even lift?"',
-                    'gives you a fortune cookie. It reads "m808 pls"',
-                    'gives you a fortune cookie. It reads "If you move your hips, you\'ll get all the ladies."',
-                    'gives you a fortune cookie. It reads "I love you."',
-                    'gives you a Golden Cookie. You can\'t eat it because it is made of gold. Dammit.',
-                    'gives you an Oreo cookie with a glass of milk!',
-                    'gives you a rainbow cookie made with love :heart:',
-                    'gives you an old cookie that was left out in the rain, it\'s moldy.',
-                    'bakes you fresh cookies, it smells amazing.'
+                cookie: ['te deu um cookie crocante de chocolate!',
+                    'te deu um cookie de aveia caseiro!',
+                    'te deu um cookie velho e seco. Era o ultimo do pacote. Nojento!',
+                    'te deu um biscoito de açucar. O que, sem farinha e granulado? Eu não tocaria nele.',
+                    'te deu um cookie crocante. Ei, espere, esse é de uva passa. Credo!',
+                    'te deu um cookie enorme . Encostando nele, te dá mais cookies. Estranho!',
+                    'te deu um cookie da sorte. Está escrito “Porque você não está trabalhando?',
+                    'te deu um cookie da sorte. Está escrito “Cumprimente alguém especial."',
+                    'te deu um cookie da sorte. Está escrito “Arrisque-se.”',
+                    'te deu um cookie da sorte. Está escrito “Saia um pouco”',
+                    'te deu um cookie da sorte. Está escrito “Nao esqueça de comer seus legumes.”',
+                    'te deu um cookie da sorte. Está escrito “Você ao menos malha?”',
+                    'te deu um cookie da sorte. Está escrito ”se mover seu quadril, vai pegar todas as garotas.”',
+                    'te deu um cookie da sorte. Está escrito “Eu te amo” <3',
+                    'te deu um cookie Dourado. Você não pode comê-lo pois é de ouro. Droga!',
+                    'te deu um cookie da sorte. Está escrito: fique em silencio por 5 minutos.',
+                    'te deu um Oreo e um copo de leite!',
+                    'te deu um cookie de Arco-ìris feito com amor :heart:',
+                    'te deu um cookie velho que foi deixado na chuva. Está mofado.',
+                    'te deu um biscoito da sorte. Está escrito "não toque essa música planejada"',
+                    'te deu um cupcake!',
+                    'te deu um brownie "especial"',
+                    'te deu um cracker animal',
+                    'te deu um biscoito Scooby',
+                    'fez cookies fresquinhos, o cheiro está bom.',
+                    'te deu um cookie da sorte. Está escrito "A vida trará coisas boas se tiveres paciência."'
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
@@ -1582,7 +1590,6 @@
                     }
                 }
             },
-            
             
 
             cycleCommand: {
