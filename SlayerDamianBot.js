@@ -41,7 +41,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt.json", function (json) {
+        $.get("https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -110,7 +110,7 @@
         var json_sett = null;
         var roominfo = document.getElementById("room-info");
         info = roominfo.textContent;
-        var ref_bot = "@SlayerDamianBot=";
+        var ref_bot = "@PopBot=";
         var ind_ref = info.indexOf(ref_bot);
         if (ind_ref > 0) {
             var link = info.substring(ind_ref + ref_bot.length, info.length);
@@ -167,18 +167,18 @@
     var basicBot = {
         version: "2.1.2",
         status: false,
-        name: "SlayerDamianBot",
+        name: "PopBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/SlayerDamianBot.js",
+        scriptLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/SlayerDamianBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "SlayerDamianBot",
+            botName: "PopBot",
             language: "portuguese",
-            chatLink: "https://rawgit.com/SlayerDamianBot/SlayerDamianBot/master/lang/pt.json",
+            chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
             maximumAfk: 120,
             afkRemoval: true,
             maximumDc: 60,
