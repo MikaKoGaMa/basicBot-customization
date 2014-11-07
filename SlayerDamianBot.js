@@ -1529,7 +1529,7 @@
             
             
             cookieCommand: {
-                command: 'cookie',
+                command: 'biscoito',
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['te deu um cookie crocante de chocolate!',
@@ -1581,7 +1581,7 @@
                                 return API.sendChat(subChat(basicBot.chat.nousercookie, {name: name}));
                             }
                             else if (user.username === chat.un) {
-                                return API.sendChat(subChat(basicBot.chat.selfcookie, {name: name}));
+                                return API.sendChat(subChat(basicBot.chat.selfbiscoito, {name: name}));
                             }
                             else {
                                 return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
