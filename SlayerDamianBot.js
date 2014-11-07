@@ -1529,10 +1529,10 @@
             
             
             cookieCommand: {
-                command: 'biscoito',
+                command: 'cookie',
                 rank: 'user',
                 type: 'startsWith',
-                cookie: ['te deu um cookie crocante de chocolate!',
+                cookies: ['te deu um cookie crocante de chocolate!',
                     'te deu um cookie de aveia caseiro!',
                     'te deu um cookie velho e seco. Era o ultimo do pacote. Nojento!',
                     'te deu um biscoito de açucar. O que, sem farinha e granulado? Eu não tocaria nele.',
@@ -1590,6 +1590,7 @@
                     }
                 }
             },
+
             
 
             cycleCommand: {
