@@ -198,11 +198,13 @@
                 ["theme", "This song does not fit the room theme. "],
                 ["tema", "Essa música não condiz com o tema da sala. "],
                 ["op", "This song is on the OP list. "],
+                ["bl", "Essa música está em nossa Lista de Músicas Tocadas Excessivamente"]
                 ["history", "This song is in the history. "],
                 ["mix", "You played a mix, which is against the rules. "],
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
-                ["unavailable", "The song you played was not available for some users. "]
+                ["unavailable", "The song you played was not available for some users. "],
+                ["disponivel", "A música que você tocou não estava disponível para alguns usuários. "]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
