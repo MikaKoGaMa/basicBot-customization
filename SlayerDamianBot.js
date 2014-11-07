@@ -1587,7 +1587,7 @@
                 command: 'biscoito',
                 rank: 'user',
                 type: 'startsWith',
-                biscoito: ['te deu um cookie crocante de chocolate!',
+                cookie: ['te deu um cookie crocante de chocolate!',
                     'te deu um cookie de aveia caseiro!',
                     'te deu um cookie velho e seco. Era o ultimo do pacote. Nojento!',
                     'te deu um biscoito de açucar. O que, sem farinha e granulado? Eu não tocaria nele.',
@@ -1614,9 +1614,9 @@
                     'fez cookies fresquinhos, o cheiro está bom.',
                     'te deu um cookie da sorte. Está escrito "A vida trará coisas boas se tiveres paciência."'
                 ],
-                getBiscoito: function () {
-                    var c = Math.floor(Math.random() * this.biscoito.length);
-                    return this.biscoito[c];
+                getCookie: function () {
+                    var c = Math.floor(Math.random() * this.cookies.length);
+                    return this.cookies[c];
                 },
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
@@ -1639,7 +1639,7 @@
                                 return API.sendChat(subChat(basicBot.chat.selfbiscoito, {name: name}));
                             }
                             else {
-                                return API.sendChat(subChat(basicBot.chat.biscoito, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
+                                return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
                             }
                         }
                     }
