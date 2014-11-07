@@ -83,7 +83,7 @@
     "selfbiscoito": "/me @%%NAME%%, você é mesquinho, né? Dando cookies a si mesmo, bah. Compartilhe um pouco com os outros!",
     "selfcookie": "/me @%%NAME%%, you're a bit greedy, aren't you? Giving cookies to yourself, bah. Share some with other people!",
     "cookie": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
-    "biscoito": "/me @%%NAMETO%%, @%%NAMEFROM%% %%BISCOITO%%",
+    "biscoito": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários.",
     "emojilist": "/me Emojis: %%LINK%%",
