@@ -978,6 +978,16 @@
                     API.moderateDeleteChat(chat.cid);
                     return true;
                 }
+                var plugRoomLinkPatt, sender;
+                    plugRoomLinkPatt = /(\bhttps?:\/\/(www.)?plug\.dj[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+                    if (plugRoomLinkPatt.exec(msg)) {
+                      sender = API.getUser(chat.fromID);
+                      if (perm === 0) {                                                              
+                              API.sendChat("/me @" + chat.from + ", don't post links to other rooms please.");
+                              API.moderateDeleteChat(chat.chatID);
+                              return true;
+                      }
+                    }
 
                 var rlJoinChat = basicBot.chat.roulettejoin;
                 var rlLeaveChat = basicBot.chat.rouletteleave;
