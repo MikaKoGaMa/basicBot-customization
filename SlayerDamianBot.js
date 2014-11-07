@@ -1528,7 +1528,7 @@
             
             
             
-            cookieCommand: {
+            biscoitoCommand: {
                 command: 'biscoito',
                 rank: 'user',
                 type: 'startsWith',
