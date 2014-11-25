@@ -95,7 +95,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["Obrigado pela presença de todos! Divirtam-se =)", "A roleta acontece a cada 30 min, teste sua sorte para ganhar posições na fila!","Que tal colocar seus traseiros para remexer? Clique em legal! :)","Confira as regras da sala na descrição!","Respeite os demais usuários da sala!"],
+        intervalMessages: [":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =)", ":grey_exclamation: A roleta acontece a cada 30 min, teste sua sorte para ganhar posições na fila!",":grey_exclamation: Que tal colocar seus traseiros para remexer? Clique em legal! :)",":grey_exclamation: Confira as regras da sala na descrição!",":grey_exclamation: Respeite os demais usuários da sala!"],
         messageInterval: 2,
         songstats: true,
         commandLiteral: "!",
