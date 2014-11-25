@@ -956,7 +956,7 @@
                     }
                 }
                  **/
-                if (msg.indexOf('http://plug.dj/') > -1) {
+                if (msg.indexOf('http://plug.dj/') > -1 || msg.indexOf('https://plug.dj/') > -1) {
                     API.moderateDeleteChat(chat.cid);
                     API.sendChat(subChat(basicBot.chat.adfly, {name: chat.un}));
                     return true;
