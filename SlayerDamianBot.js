@@ -180,7 +180,7 @@
             language: "portuguese",
             chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
             maximumAfk: 120,
-            afkRemoval: true,
+            afkRemoval: false,
             maximumDc: 60,
             bouncerPlus: true,
             lockdownEnabled: false,
