@@ -962,7 +962,7 @@
                     return true;
                 }
                 if(msg.indexOf(':eyeroll:') > -1){
-                    API.sendChat('/me ¬_¬');
+                    API.sendChat('/me ¬__¬');
                 }
                 if(msg.indexOf(':notamused:') > -1){
                     API.sendChat('/me ಠ_ಠ');
@@ -971,7 +971,7 @@
                     API.sendChat('/me ლ(ಥ益ಥლ');
                 }
                 if(msg.indexOf('oi bot') !== -1 || msg.indexOf('bot oi') !== -1 || msg.indexOf('ola bot') !== -1 || msg.indexOf('olá bot') !== -1 || msg.indexOf('tudo bem bot') !== -1 || msg.indexOf('bot blz') !== -1 || msg.indexOf('ei bot') !== -1 || msg.indexOf('e ai bot') !== -1 || msg.indexOf('eai bot') !== -1 || msg.indexOf('bot howdy') !== -1 || msg.indexOf('aye bot') !== -1 || msg.indexOf('yo bot') !== -1 || msg.indexOf('waddup bot') !== -1 || msg.indexOf('bot waddup') !== -1){
-                    API.sendChat('/me Olá ^^');
+                    API.sendChat('/me Olá ^^') || ('/me Oiii');
                 }
                       
                 if (msg.indexOf('autojoin was not enabled') > 0 || msg.indexOf('AFK message was not enabled') > 0 || msg.indexOf('!afkdisable') > 0 || msg.indexOf('!joindisable') > 0 || msg.indexOf('autojoin disabled') > 0 || msg.indexOf('AFK message disabled') > 0) {
