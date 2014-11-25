@@ -39,7 +39,7 @@
     "askskip": "@%%NAME%%, não peça skips.",
     "spam": "/me @%%NAME%%, não faça spam, por favor.",
     "roomadvertising": "@%%NAME%%, não poste link de outras comunidades, por favor.",
-    "adfly": "@%%NAME%%, por favor mude seu script autowoot. Nós sugerimos plugCubed: http://plugcubed.net/",
+    "adfly": "@%%NAME%%, Não divulgue link de outras salas!",
 
 
     "invalidtime": "/me [@%%NAME%%] Tempo inválido.",
