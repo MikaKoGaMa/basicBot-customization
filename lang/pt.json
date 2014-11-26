@@ -39,7 +39,7 @@
     "askskip": "@%%NAME%%, não peça skips.",
     "spam": "/me @%%NAME%%, não faça spam, por favor.",
     "roomadvertising": "@%%NAME%%, não poste link de outras comunidades, por favor.",
-    "adfly": ["@%%NAME%%, Não divulgue link de outras salas!","Não divulgue links please"],
+    "adfly": "@%%NAME%%, Não divulgue link de outras salas!",
 
 
     "invalidtime": "/me [@%%NAME%%] Tempo inválido.",
