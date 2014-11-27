@@ -215,7 +215,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "Regras http://goo.gl/pDi7H1",
+            rulesLink: "http://goo.gl/pDi7H1",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
