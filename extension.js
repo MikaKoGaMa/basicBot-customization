@@ -90,7 +90,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/blacklists/ExampleOPlist.json",
-        rulesLink: null,
+        rulesLink: "Regras: http://goo.gl/pDi7H1",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
