@@ -8,7 +8,7 @@ NÃO ofender fãs e RESPEITAR os genêros musicais.
 
 PROÍBIDO - Funk, Pagode, Samba, Axé, Sertanejo;
 
-Proibido dar meh. Caso não goste da música, favor manter o seu boneco parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato
+Proibido dar meh (chato) nas músicas. Caso não goste da música, favor manter o seu boneco parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato
 
 
 
