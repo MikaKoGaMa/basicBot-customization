@@ -220,7 +220,7 @@
             fbLink: null,
             youtubeLink: null,
             website: null,
-            intervalMessages: [7],
+            intervalMessages: [8],
             messageInterval: 1,
             songstats: true,
             commandLiteral: "!",
