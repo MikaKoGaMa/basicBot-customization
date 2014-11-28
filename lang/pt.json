@@ -73,6 +73,7 @@
     "afkstatusreset": "/me [@%%NAME%%] Status AFK resetado: @%%USERNAME%%.",
     "inactivefor": "/me [@%%NAME%%] @%%USERNAME%% esteve inativo por %%TIME%%.",
     "autowoot": "/me Nós recomendamos tastyplug para autowoot: https://fungustime.pw/tastyplug/",
+    "meh": "/me :warning: Nós não gostamos de dar meh (chato) nas músicas. Caso não goste da música, favor manter o seu avatar parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato! :warning:",
     "brandambassador": "/me Um Embaixador de Marca é a voz dos usuários da plug.dj. Eles promovem eventos, ajudam as comunidades e divulgam a plug.dj para todo o mundod. Mais info: http://blog.plug.dj/brand-ambassadors/",
     "bouncerplusrank": "/me [@%%NAME%%] Você precisa ser Coordenador ou superior para ativar o Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] O chat foi limpo.",
