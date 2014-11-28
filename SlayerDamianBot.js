@@ -204,7 +204,7 @@
                 ["sound", "The song you played had bad sound quality or no sound. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
                 ["unavailable", "The song you played was not available for some users. "],
-                ["disponivel", "A música que você tocou não estava disponível para alguns usuários. "]
+                ["indisponivel", "A música que você tocou não estava disponível para alguns usuários. "]
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
@@ -220,7 +220,7 @@
             fbLink: null,
             youtubeLink: null,
             website: null,
-            intervalMessages: [6],
+            intervalMessages: [7],
             messageInterval: 1,
             songstats: true,
             commandLiteral: "!",
