@@ -110,7 +110,7 @@
         var json_sett = null;
         var roominfo = document.getElementById("room-info");
         info = roominfo.textContent;
-        var ref_bot = "@PopBot=";
+        var ref_bot = "@BotMagia=";
         var ind_ref = info.indexOf(ref_bot);
         if (ind_ref > 0) {
             var link = info.substring(ind_ref + ref_bot.length, info.length);
@@ -167,7 +167,7 @@
     var basicBot = {
         version: "2.1.2",
         status: false,
-        name: "PopBot",
+        name: "BotMagia",
         loggedInID: null,
         scriptLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/SlayerDamianBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -176,7 +176,7 @@
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "PopBot",
+            botName: "BotMagia",
             language: "portuguese",
             chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
             maximumAfk: 120,
@@ -220,8 +220,8 @@
             fbLink: null,
             youtubeLink: null,
             website: null,
-            intervalMessages: [6],
-            messageInterval: 2,
+            intervalMessages: [7],
+            messageInterval: 1,
             songstats: true,
             commandLiteral: "!",
             blacklists: {
