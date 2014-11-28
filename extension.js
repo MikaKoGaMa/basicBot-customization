@@ -95,8 +95,8 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: [":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =) :grey_exclamation:", ":grey_exclamation: A roleta acontece a cada 30 min, teste sua sorte para ganhar posições na fila! :grey_exclamation:",":grey_exclamation: Que tal colocar seus traseiros para remexer? Clique em legal! :) :grey_exclamation:",":grey_exclamation: Confira as regras da sala http://goo.gl/pDi7H1 :grey_exclamation:",":grey_exclamation: Respeite os demais usuários da sala e seja respeitado. :grey_exclamation:",":grey_exclamation: Não gostamos de meh (chato), favor dar woot (legal) ou ficar parado. ;) :grey_exclamation:"],
-        messageInterval: 2,
+        intervalMessages: [":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =) :grey_exclamation:", ":grey_exclamation: A roleta acontece a cada 30 min, teste sua sorte para ganhar posições na fila! :grey_exclamation:",":grey_exclamation: Que tal colocar seus traseiros para remexer? Clique em legal! :) :grey_exclamation:",":grey_exclamation: Confira as regras da sala http://goo.gl/pDi7H1 :grey_exclamation:",":grey_exclamation: Respeite os demais usuários da sala e seja respeitado. :grey_exclamation:",":grey_exclamation: Não gostamos de meh (chato) favor dar woot (legal) ou ficar parado. ;) :grey_exclamation:"],
+        messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
