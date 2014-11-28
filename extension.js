@@ -53,7 +53,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "PopBot",
+        botName: "BotMagia",
         language: "portuguese",
         chatLink: "https://rawgit.com/SlayerDamianBot/basicBot-customization/master/lang/pt.json",
         maximumAfk: 120,
