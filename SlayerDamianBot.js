@@ -1663,37 +1663,7 @@
                 }
             },
             
-            nomeCommand: {
-                command: 'nome',
-                rank: 'user',
-                type: 'startsWith',
-                cookies: ['teste 1!',
-                    'teste 2!'
-                ],
-                getCookie: function () {
-                    var c = Math.floor(Math.random() * this.cookies.length);
-                    return this.cookies[c];
-                },
-                functionality: function (chat, cmd) {
-                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                    else {
-                        var msg = chat.message;
-
-                        var space = msg.indexOf(' ');
-                        if (space === -1) {
-                            API.sendChat(basicBot.chat.eatcookie);
-                            return false;
-                        }
-                        else {
-                                return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
-                            }
-                        }
-                    }
-                }
-            },
-
-
+            
             cycleCommand: {
                 command: 'cycle',
                 rank: 'manager',
