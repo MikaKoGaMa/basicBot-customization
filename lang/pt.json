@@ -4,26 +4,26 @@
     "datarestored": "Dados armazenados anteriormente recuperados com êxito.",
     "greyuser": "Apenas Seguranças ou superiores podem usar o chatbot.",
     "bouncer": "O chatbot não pode mover pessoas na fila de espera quando usado por um bouncer.",
-    "online": "/me %%BOTNAME%% online!",
+    "online": "/me %%BOTNAME%%, aiii gente chegaaayyy!",
 
 
-    "welcome": "Bem vindo(a), %%NAME%%",
-    "welcomeback": "Bem vindo(a) de volta, %%NAME%%",
+    "welcome": "Bem vindo(a) lindo(a) %%NAME%% <3",
+    "welcomeback": "Sentiu minha falta e voltou né? seu/sua lindo(a) %%NAME%% :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para participar!",
-    "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
+    "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para entrar com tudo dlç!",
+    "winnerpicked": "/me Parabéns tesudo(a)! @%%NAME%% ganhou a posição %%POSITION%%.",
 
 
     "alreadyadding": "/me Usuário já está sendo adicionado! Posição desejada alterada para %%POSITION%%.",
     "adding": "/me @%%NAME%% foi adicionado à fila. Posição atual: %%POSITION%%.",
 
 
-    "usernotfound": "/me Usuário não encontrado.",
+    "usernotfound": "/me Esse bofe não está na sala =/.",
     "notdisconnected": "/me @%%NAME%% não tem se desconectado durante meu tempo aqui.",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%%'s desconectou-se a muito tempo atrás: %%TIME%%.",
@@ -78,7 +78,7 @@
     "chatcleared": "/me [@%%NAME%%] O chat foi limpo.",
     "deletechat": "/me [@%%NAME%%] O chat de %%USERNAME%% foi limpo.",
     "commandslink": "/me Comandos do %%BOTNAME%%: %%LINK%%",
-    "eatcookie": "/me ama cookies.",
+    "eatcookie": "/me #adooooooro cookies.",
     "nousercookie": "/em Não vejo @%%NAME%% na sala. Vou comer esse cookie sozinho.",
     "selfbiscoito": "/me @%%NAME%%, você é mesquinho, né? Dando cookies a si mesmo, bah. Compartilhe um pouco com os outros!",
     "selfcookie": "/me @%%NAME%%, you're a bit greedy, aren't you? Giving cookies to yourself, bah. Share some with other people!",
