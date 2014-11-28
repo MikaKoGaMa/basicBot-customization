@@ -960,6 +960,7 @@
                     API.moderateDeleteChat(chat.cid);
                     API.sendChat(subChat(basicBot.chat.adfly, {name: chat.un}));
                     return true;
+                }
                 if (msg.indexOf('!meh') > -1 ) {
                     API.moderateDeleteChat(chat.cid);
                     API.sendChat('/me :warning: Nós não gostamos de dar meh (chato) nas músicas. Caso não goste da música, favor manter o seu avatar parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato! :warning:');
