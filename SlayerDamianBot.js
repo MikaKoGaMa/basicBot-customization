@@ -221,7 +221,7 @@
             youtubeLink: null,
             website: null,
             intervalMessages: [8],
-            messageInterval: 1,
+            messageInterval: 2,
             songstats: true,
             commandLiteral: "!",
             blacklists: {
