@@ -7,7 +7,7 @@
     "online": "/me %%BOTNAME%%, aiii gente chegaaayyy!",
 
 
-    "welcome": "Bem vindo(a) lindo(a) %%NAME%% <3",
+    "welcome": "Bem vindo(a) dlç %%NAME%% <3",
     "welcomeback": "Sentiu minha falta e voltou né? seu/sua lindo(a) %%NAME%% :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
