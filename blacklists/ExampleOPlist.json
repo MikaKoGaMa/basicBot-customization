@@ -1,16 +1,13 @@
 {
     "1":{
-        "mid": "1:OPsongID1"
+        "title": "Baby",
+        "author": "Justin Bieber",
+        "mid": "1:kffacxfA7G4" 
     },
     "2":{
         "title": "This is a OP song",
         "author": "The OP band",
         "mid": "1:OPsongID2"
     },
-    "3":{
-        "mid": "1:OPsongID3"
-    },
-    "4":{
-        "mid": "1:kffacxfA7G4" 
-    }
+    
 }
