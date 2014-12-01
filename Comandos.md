@@ -1,14 +1,14 @@
-Commands:
+Comandos:
 =========
 
-X specifies a number
-arguments between ( ) are optional
+X especifica um número
+argumentos entre ( ) são opcionais
 
 
 Manager
 -------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | sets the maximum afk time |
 |!clearchat | |clears the chat |
@@ -22,7 +22,7 @@ Manager
 Bouncer+
 --------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | add user to the waitlist |
 |!afkremoval | | toggles the afk check |
@@ -42,7 +42,7 @@ Bouncer+
 Bouncer
 -------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!active | (X) | shows how many users chatted in the past X minutes. If no X specified, 60 is set as default |
 |!afkreset | @user | resets the afk time of user |
@@ -76,7 +76,7 @@ Bouncer
 Resident DJ
 -----------
 
-|Command | Arguments |  Description |
+|Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | give a link to the current song
 
@@ -85,15 +85,15 @@ Resident DJ
 User
 ----
 
-|Command | Arguments |  Description |
+|Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!autowoot | | links to PlugCubed, the advised script/plugin to use for autowooting |
-|!ba | | explains the Brand Ambassador rank |
-|!commands | | gives a link to the commands |
-|!cookie | (@user) | give a cookie to user |
-|!dclookup / !dc | | use dclookup on yourself |
-|!emoji | | a link to a list with emoji's |
-|!eta | | shows how long before you reach the booth |
+|!autowoot | | links do script/plugin que recomendamos para o auto "legal" |
+|!ba | | explica o posto de Embaixador |
+|!commands | | dá um link para os comandos |
+|!cookie | (@usuário) | dar um cookie para o usuário |
+|!dclookup / !dc | | caso tenha saido da sala, ao voltar use o !dc para ter de volta a sua posição na fila de DJ |
+|!emoji | | link para uma lista de emotions |
+|!eta | | mostra quanto tempo falta para tocar sua música |
 |!fb | | links to the room's Facebook page (if set in the settings) |
 |!help | | links to an image to help get people started on plug |
 |!join | | join the roulette if it's up |
