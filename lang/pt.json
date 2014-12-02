@@ -7,15 +7,15 @@
     "online": "/me %%BOTNAME%%, aiii gente chegaaayyy!",
 
 
-    "welcome": "Bem vindo(a) dlç %%NAME%% <3",
-    "welcomeback": "Sentiu minha falta e voltou né? seu/sua lindo(a) %%NAME%% :two_hearts:",
+    "welcome": "Bem vindo(a) lindo(a) %%NAME%% <3",
+    "welcomeback": "Sentiu minha falta e voltou né? seu(sua) lindo(a) %%NAME%% :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para entrar com tudo dlç!",
+    "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para entrar com tudo!",
     "winnerpicked": "/me Parabéns tesudo(a)! @%%NAME%% ganhou a posição %%POSITION%%.",
 
 
