@@ -202,6 +202,7 @@
                 ["history", "This song is in the history. "],
                 ["mix", "You played a mix, which is against the rules. "],
                 ["sound", "The song you played had bad sound quality or no sound. "],
+                ["som", "A música que você tocou era de má qualidade ou não tinha som nenhum. "],
                 ["nsfw", "The song you contained was NSFW (image or sound). "],
                 ["unavailable", "The song you played was not available for some users. "],
                 ["indisponivel", "A música que você tocou não estava disponível para alguns usuários. "]
@@ -220,7 +221,7 @@
             fbLink: null,
             youtubeLink: null,
             website: null,
-            intervalMessages: [9],
+            intervalMessages: [8],
             messageInterval: 1,
             songstats: true,
             commandLiteral: "!",
