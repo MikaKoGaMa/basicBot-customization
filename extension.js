@@ -95,7 +95,7 @@
         fbLink: "https://www.fb.com/groups/PopMusicWorld/",
         youtubeLink: null,
         website: null,
-        intervalMessages: ["!roulette",":grey_exclamation: Não gostamos de meh (chato) favor dar woot (legal) ou ficar parado. ;) :grey_exclamation:",":santa: Feliz Natal! how how how how :christmas_tree: ",":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =) :grey_exclamation:", ":grey_exclamation: A roleta acontece a cada 30 min + ou -, teste sua sorte para ganhar posições na fila! :grey_exclamation:",":grey_exclamation: Confira as regras da sala http://goo.gl/pDi7H1 :grey_exclamation:",":grey_exclamation: Respeite os demais usuários da sala e seja respeitado. :grey_exclamation:",":grey_exclamation: Confira a lista de emotions em http://goo.gl/8kygR7 :grey_exclamation:"],
+        intervalMessages: [":grey_exclamation: Não gostamos de meh (chato) favor dar woot (legal) ou ficar parado. ;) :grey_exclamation:",":santa: Feliz Natal! how how how how :christmas_tree: ",":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =) :grey_exclamation:", ":grey_exclamation: A roleta acontece a cada 30 min + ou -, teste sua sorte para ganhar posições na fila! :grey_exclamation:","!roulette",":grey_exclamation: Confira as regras da sala http://goo.gl/pDi7H1 :grey_exclamation:",":grey_exclamation: Respeite os demais usuários da sala e seja respeitado. :grey_exclamation:",":grey_exclamation: Confira a lista de emotions em http://goo.gl/8kygR7 :grey_exclamation:"],
         messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
