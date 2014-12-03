@@ -98,7 +98,7 @@
         fbLink: "https://www.fb.com/groups/PopMusicWorld/",
         youtubeLink: null,
         website: null,
-        intervalMessages: [":santa: Feliz Natal! how how how how :christmas_tree:", ":grey_exclamation: Obrigado pela presença de todos! Divirtam-se =) :grey_exclamation:", ":grey_exclamation: Confira as regras da sala http://goo.gl/pDi7H1 :grey_exclamation:", ":grey_exclamation: Respeite os demais usuários da sala e seja respeitado. :grey_exclamation:"],
+        intervalMessages: [":santa: Feliz Natal! how how how how :christmas_tree:"],
         messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
