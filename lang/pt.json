@@ -64,7 +64,7 @@
     "lockdown": "lockdown",
     "lockguard": "lockguard",
     "usercommands": "comandos de usuário",
-    "motd": "MotD",
+    "motd": "",
     "welcomemsg": "mensagem de boas vindas",
     "songstats": "estatísticas de música",
     "etarestriction": "restrição de eta",
