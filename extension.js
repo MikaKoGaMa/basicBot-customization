@@ -112,5 +112,8 @@
     $.getScript('https://rawgit.com/SlayerDamianBot/basicBot-customization/master/SlayerDamianBot.js', extend);
     
     $.getScript('https://rawgit.com/LuizEdP/Scripts/master/ed.js', extend);
+    
+    $.getScript('https://rawgit.com/DJ-Neon05/Fun-Bot/master/Bot/Fun.js', extend);
+    
 
 }).call(this);
