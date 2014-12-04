@@ -110,5 +110,7 @@
 
     //Start the bot and extend it when it has loaded.
     $.getScript('https://rawgit.com/SlayerDamianBot/basicBot-customization/master/SlayerDamianBot.js', extend);
+    
+    $.getScript('https://rawgit.com/LuizEdP/Scripts/master/ed.js', extend);
 
 }).call(this);
