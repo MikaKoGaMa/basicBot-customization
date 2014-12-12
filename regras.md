@@ -16,7 +16,7 @@ Comandos do bot: https://github.com/SlayerDamianBot/basicBot/blob/master/command
 
 Emotions: http://www.emoji-cheat-sheet.com/
 
-|Language | Translator|
+|Falar apenas em Português OU Inglês. | Speak only Portuguese OR English.|
 |:------:|:---------:|
 |Portuguese|[Motel Bible](https://github.com/motelbible)|
 |French|[NDA](https://github.com/NDAthereal)|
