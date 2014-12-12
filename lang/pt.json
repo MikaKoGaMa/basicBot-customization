@@ -117,7 +117,7 @@
     "pong": "/me Pong!",
     "reload": "/me Reiniciando...",
     "removenotinwl": "/me [@%%NAME%%] Usuário @%%USERNAME%% não está na fila de espera.",
-    "roomrules": "/me Encontre as regras da sala aqui %%LINK%% / Find room rules here %%LINK%%",
+    "roomrules": "/me Encontre as regras da sala aqui / Find room rules here %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
     "skip": "/me [%%NAME%% usou 'skip'.]",
     "madeby": "/me Este bot foi feito por %%NAME%%.",
