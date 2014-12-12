@@ -15,3 +15,8 @@
 Comandos do bot: https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md
 
 Emotions: http://www.emoji-cheat-sheet.com/
+
+|Language | Translator|
+|:------:|:---------:|
+|Portuguese|[Motel Bible](https://github.com/motelbible)|
+|French|[NDA](https://github.com/NDAthereal)|
