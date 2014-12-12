@@ -8,12 +8,3 @@
 |Proibido dar meh (chato) nas músicas. Caso não goste da música, favor manter o seu boneco parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato | Forbidden to give meh (boring) the songs. If you dont like the song, please keep your doll stopped. Plug provides the option to silence the song playing at the time. grateful|
 |[Comandos do BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|[Commands of BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|
 |[Emotions](http://www.emoji-cheat-sheet.com/)|[Emotions](http://www.emoji-cheat-sheet.com/)|
-
-Comandos do bot: https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md
-
-Emotions: http://www.emoji-cheat-sheet.com/
-
-|Falar apenas em Português OU Inglês. | Speak only Portuguese OR English.|
-|:---------:|
-|[Comandos do BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|
-|[Emotions](http://www.emoji-cheat-sheet.com/)|
