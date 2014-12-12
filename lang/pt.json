@@ -72,7 +72,7 @@
     "maximumafktimeset": "/me [@%%NAME%%] Duração máxima de AFK agora é: %%TIME%% minutos.",
     "afkstatusreset": "/me [@%%NAME%%] Status AFK resetado: @%%USERNAME%%.",
     "inactivefor": "/me [@%%NAME%%] @%%USERNAME%% esteve inativo por %%TIME%%.",
-    "autowoot": "/me Nós recomendamos tastyplug para autowoot: https://fungustime.pw/tastyplug/",
+    "autowoot": "/me Nós recomendamos Origem woot para autowoot: http://www.brazileletromusic.com.br/2014/10/origem-woot.html",
     "chato": "/me :warning: Nós não gostamos de dar meh (chato) nas músicas. Caso não goste da música, favor manter o seu avatar parado. O Plug fornece a opção silenciar a música que está tocando no momento. Grato! :warning:",
     "meh": "/me :warning: Please don't vote 'meh/boring' here at this room is prohibited if you guys don't like of the music Please silence the song and don't vote 'boring/meh'. Everybody have the direct to play what want according to the room rule :warning:",
     "brandambassador": "/me Um Embaixador de Marca é a voz dos usuários da plug.dj. Eles promovem eventos, ajudam as comunidades e divulgam a plug.dj para todo o mundod. Mais info: http://blog.plug.dj/brand-ambassadors/",
