@@ -13,5 +13,5 @@ Emotions: http://www.emoji-cheat-sheet.com/
 
 |Falar apenas em Português OU Inglês. | Speak only Portuguese OR English.|
 |:------:|:---------:|
-|Portuguese|[Motel Bible](https://github.com/motelbible)|
-|French|[NDA](https://github.com/NDAthereal)|
+|--|[Comandos do BOT](https://github.com/SlayerDamianBot/basicBot/blob/master/commands.md)|
+|--|[Emotions](http://www.emoji-cheat-sheet.com/)|
