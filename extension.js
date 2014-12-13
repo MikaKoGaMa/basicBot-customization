@@ -87,7 +87,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 6,
+        motdInterval: 4,
         motd: "!roulette",
         filterChat: true,
         etaRestriction: false,
