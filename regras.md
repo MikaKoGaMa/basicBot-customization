@@ -1,7 +1,7 @@
 |REGRAS|RULES|
 |:------:|:---------:|
 |Falar apenas em Português OU Inglês. | Speak only Portuguese OR English.|
-|Sem xingamentos; Exceção quando o coleguinha permitir. | No name calling; Except when the colleague allow.|
+|Sem xingamentos; Exceção quando o colega permitir. | No name calling; Except when the colleague allow.|
 |Limite máximo por musica - 8 mins | Ceiling per musica - 8 mins|
 |NÃO ofender fãs e RESPEITAR os genêros musicais. | NO RESPECT offend fans and musical genres.|
 |PROÍBIDO - Funk, Pagode, Samba, Axé, Sertanejo; | FORBIDDEN - Funk, Pagode, Samba, Axe, Sertanejo;|
