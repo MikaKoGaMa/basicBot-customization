@@ -16,7 +16,7 @@
 
 
     "isopen": "/me :game_die: A roleta foi iniciada! Digite !join para entrar com tudo!",
-    "winnerpicked": "/me Parabéns tesudo(a)! @%%NAME%% ganhou a posição %%POSITION%%.",
+    "winnerpicked": "/me Parabéns! @%%NAME%% te colocarei de %%POSITION%% na fila.",
 
 
     "alreadyadding": "/me Usuário já está sendo adicionado! Posição desejada alterada para %%POSITION%%.",
