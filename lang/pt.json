@@ -8,7 +8,7 @@
 
 
     "welcome": "Bem vindo(a) lindo(a) %%NAME%% <3",
-    "welcomeback": "Sentiu minha falta e voltou né? seu(sua) lindo(a) %%NAME%% :two_hearts:",
+    "welcomeback": "Sentimos sua falta %%NAME%% :3 bem-vindo de volta :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
