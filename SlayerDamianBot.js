@@ -995,12 +995,12 @@
                 if (leftroulette[1].length > leftroulette[0].length) leftroulette = leftroulette[1];
                 else leftroulette = leftroulette[0];
 
-                if ((msg.indexOf(joinedroulette) > -1 || msg.indexOf(leftroulette) > -1) && chat.uid === basicBot.loggedInID) {
+                /** ((msg.indexOf(joinedroulette) > -1 || msg.indexOf(leftroulette) > -1) && chat.uid === basicBot.loggedInID) {
                     setTimeout(function (id) {
                         API.moderateDeleteChat(id);
                     }, 2 * 1000, chat.cid);
                     return true;
-                }
+                }**/
                 return false;
             },
             commandCheck: function (chat) {
