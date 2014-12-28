@@ -88,7 +88,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 4,
-        motd: "!roulette",
+        motd: ":game_die: Hora da Roleta! :game_die:",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
