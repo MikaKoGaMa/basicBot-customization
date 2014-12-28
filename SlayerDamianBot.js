@@ -221,7 +221,7 @@
             fbLink: null,
             youtubeLink: null,
             website: null,
-            intervalMessages: [1],
+            intervalMessages: ["teste 1", "teste 2"],
             messageInterval: 1,
             songstats: true,
             commandLiteral: "!",
