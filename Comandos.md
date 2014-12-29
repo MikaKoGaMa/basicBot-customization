@@ -10,9 +10,9 @@ Manager
 
 |Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | sets the maximum afk time |
-|!clearchat | |clears the chat |
-|!cycle | | toggle DJ cycle |
+|!afklimit | X | marcar o tempo máximo de afk |
+|!clearchat | | limpa todo o chat |
+|!cycle | | altera o ciclo de DJ |
 |!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
 |!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
 |!refresh | | refreshes the browser of whoever runs the bot |
@@ -78,7 +78,7 @@ Resident DJ
 
 |Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!link | | give a link to the current song
+|!link | | link para a música que esta tocando |
 
 
 
@@ -87,21 +87,20 @@ User
 
 |Comando | Argumentos | Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!autowoot | | links do script/plugin que recomendamos para o auto "legal" |
+|!autowoot | | links do script/plugin que recomendamos para o autowoot "legal" |
 |!ba | | explica o posto de Embaixador |
 |!commands | | dá um link para os comandos |
-|!cookie | (@usuário) | dar um cookie para o usuário |
+|!biscoito | (@usuário) | dar um cookie para o usuário (Versão em português) |
+|!cookie | (@usuário) | dar um cookie para o usuário (Versão em inglês) |
 |!dclookup / !dc | | caso tenha saido da sala, ao voltar use o !dc para ter de volta a sua posição na fila de DJ |
 |!emoji | | link para uma lista de emotions |
 |!eta | | mostra quanto tempo falta para tocar sua música |
-|!fb | | links to the room's Facebook page (if set in the settings) |
-|!help | | links to an image to help get people started on plug |
-|!join | | join the roulette if it's up |
-|!leave | | leave the roulette if you joined |
-|!link | | when the user is the DJ, give a link to the current song |
-|!op | | links to the OverPlayed list (if set in the settings) |
+|!fb | | link para o grupo da sala no Facebook |
+|!help | | link para uma imagem de ajuda para usuários novatos no plug |
+|!join | | para entrar na roleta quando estiver acontecendo |
+|!leave | | para deixar a roleta |
+|!link | | link para a música que esta tocando |
+|!op | | link para a lista de músicas bloqueadas |
 |!ping | | pong! |
 |!rules | | links to the rules (if set in the settings) |
-|!theme | | links to the room's theme (if set in the settings) |
-|!website | | links to the room's website (if set in the settings) |
-|!youtube | | links to the room's youtube page (if set in the settings) |
+
